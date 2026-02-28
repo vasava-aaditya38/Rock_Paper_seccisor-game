@@ -7,7 +7,7 @@ computer=random.choice(choice)
 
 print(f"you chose:{you}\ncomputer chose: {computer}")
 
-# If elif statment
+# If Elif Statment
 
 if(you==computer):
     print("'it's tie'")
@@ -35,6 +35,7 @@ elif(you=="scissors" and computer=="paper"):
 
 else:
     print("Something went wrong! \n'please check speeling'")
+
 
 
 
